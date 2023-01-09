@@ -1,17 +1,5 @@
 # Welcome to vite-react-seo-demo 👋
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
-
-> Simple React SEO Demo
-
-[![Implement SEO with React](https://img.youtube.com/vi/yVw7ryEqiuI/0.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
-
-### 🏠 [Homepage](https://react-seo-demo-dunghd.vercel.app/)
-
-### ✨ [Demo](https://react-seo-demo-dunghd.vercel.app/)
-
 ## Install
 
 ```sh
@@ -46,14 +34,6 @@ vercel dist
 - Get the deployment link from vercel and test, e.g: https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Freact-seo-demo-dunghd.vercel.app%2F
 
 ![screenshot.png](./screenshot.png)
-
-## Author
-
-👤 **Dung Huynh (dunghd.it@gmail.com)**
-
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
 
 ## Show your support
 
